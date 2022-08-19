@@ -1,0 +1,7 @@
+1. Format.php - copy this file to 'application/libraries/' folder.
+
+2. REST_Controller.php - copy this file to 'application/libraries/' folder.
+
+3. rest.php - copy this file to 'application/config/' folder.
+
+4. rest_controller_lang.php- copy this file to 'system/language/english' folder.
